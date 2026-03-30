@@ -1,0 +1,10 @@
+
+`.gitignore`
+
+```gitignore id="1g7t4g"
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.vscode/
