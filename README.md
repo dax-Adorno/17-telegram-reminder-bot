@@ -32,7 +32,6 @@ Python Telegram bot that allows users to schedule simple reminder messages using
 └─ .gitignore
 ```
 
-
 ## How to Run
 
 1. Install dependencies:
